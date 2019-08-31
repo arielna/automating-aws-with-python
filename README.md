@@ -1,2 +1,3 @@
 # automating-aws-with-python
-Repository for AWS Automation with Python
+This a new repository for AWS Automation with Python
+Edited by Visual Studio Code
