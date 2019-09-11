@@ -13,3 +13,4 @@ Webotron currently have the following features
 
 - List buckets
 - List content of a bucket
+- Create and set up bucket
